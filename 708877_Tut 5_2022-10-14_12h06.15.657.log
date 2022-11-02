@@ -1,0 +1,300 @@
+9.1558 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+209.3440 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+216.2607 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B73B0BDFA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001B73E0BEB80>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+216.2610 	EXP 	window1: mouseVisible = True
+216.2611 	EXP 	window1: mouseVisible = False
+216.2611 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+216.2612 	EXP 	window1: recordFrameIntervals = False
+216.4267 	EXP 	window1: recordFrameIntervals = True
+216.6101 	EXP 	Screen (0) actual frame rate measured at 59.86Hz
+216.6102 	EXP 	window1: recordFrameIntervals = False
+223.3730 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+223.4349 	EXP 	window1: mouseVisible = True
+223.8446 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=['Familiar', 'Unfamiliar'], lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([ 0. , -0.3]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=None, style='rating', styleTweaks=[], ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+223.8453 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+224.3850 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='Click to submit', units='height', win=Window(...), wrapWidth=1)
+224.3851 	EXP 	window1: mouseVisible = True
+224.3923 	EXP 	Imported C:/Users/JEMIMA/Documents/L in Psych Psychopy/study_words.xlsx as conditions, 5 conditions, 1 params
+224.4500 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+224.4505 	EXP 	New trial (rep=0, index=0): {'study_word': 'book'}
+224.4689 	DATA 	Keypress: space
+224.4763 	DATA 	Keypress: space
+224.5695 	EXP 	slider: autoLog = True
+224.5695 	EXP 	slider: markerPos = None
+224.5695 	EXP 	slider: styleTweaks = []
+224.5695 	EXP 	slider: styleTweaks = []
+224.5695 	EXP 	slider: styleTweaks = []
+224.5695 	EXP 	slider: styleTweaks = []
+224.5695 	EXP 	slider: contrast = 1.0
+224.5695 	EXP 	slider: autoLog = True
+224.5695 	EXP 	textbox: autoLog = True
+224.5695 	EXP 	text: height = 0.05
+224.5695 	EXP 	text: height = 0.05
+224.5695 	EXP 	text: height = 0.05
+224.5695 	EXP 	text: text = 'book'
+224.5695 	EXP 	slider: markerPos = None
+224.5695 	EXP 	slider: markerPos = None
+224.5695 	EXP 	text: autoDraw = True
+224.5695 	EXP 	slider: autoDraw = True
+226.4776 	DATA 	Mouse: Left button down, pos=(419,206)
+226.5069 	EXP 	slider: markerPos = 0.9962962962962965
+226.5154 	EXP 	slider: markerPos = 0.9962962962962965
+226.5265 	EXP 	slider: markerPos = 0.9962962962962965
+226.5429 	EXP 	slider: markerPos = 0.9962962962962965
+226.5596 	EXP 	slider: markerPos = 0.9962962962962965
+226.5770 	EXP 	slider: markerPos = 0.9962962962962965
+226.5934 	EXP 	slider: markerPos = 0.9962962962962965
+226.6099 	EXP 	slider: markerPos = 0.9962962962962965
+226.6267 	EXP 	slider: markerPos = 0.9962962962962965
+226.6431 	EXP 	slider: markerPos = 0.9962962962962965
+226.6599 	EXP 	slider: markerPos = 0.9962962962962965
+226.6764 	EXP 	slider: markerPos = 0.9962962962962965
+226.6928 	EXP 	slider: markerPos = 0.9962962962962965
+226.6941 	DATA 	Mouse:  Left button up, pos=(419,206)
+226.7095 	EXP 	slider: markerPos = 1
+226.7304 	EXP 	New trial (rep=0, index=1): {'study_word': 'piano'}
+226.7524 	EXP 	text: autoDraw = False
+226.7524 	EXP 	slider: autoDraw = False
+226.7524 	EXP 	text: height = 0.05
+226.7524 	EXP 	text: height = 0.05
+226.7524 	EXP 	text: height = 0.05
+226.7524 	EXP 	text: text = 'piano'
+226.7524 	EXP 	slider: markerPos = None
+226.7524 	EXP 	slider: markerPos = None
+226.7524 	EXP 	text: autoDraw = True
+226.7524 	EXP 	slider: autoDraw = True
+228.5108 	DATA 	Mouse: Left button down, pos=(422,226)
+228.5265 	EXP 	slider: markerPos = 1.0074074074074073
+228.5428 	EXP 	slider: markerPos = 1.0074074074074073
+228.5595 	EXP 	slider: markerPos = 1.0074074074074073
+228.5762 	EXP 	slider: markerPos = 1.0074074074074073
+228.5931 	EXP 	slider: markerPos = 1.0074074074074073
+228.6095 	EXP 	slider: markerPos = 1.0074074074074073
+228.6264 	EXP 	slider: markerPos = 1.0074074074074073
+228.6429 	EXP 	slider: markerPos = 1.0074074074074073
+228.6596 	EXP 	slider: markerPos = 1.0074074074074073
+228.6764 	EXP 	slider: markerPos = 1.0074074074074073
+228.6926 	EXP 	slider: markerPos = 1.0074074074074073
+228.7094 	EXP 	slider: markerPos = 1.0074074074074073
+228.7265 	EXP 	slider: markerPos = 1.0074074074074073
+228.7281 	DATA 	Mouse:  Left button up, pos=(422,226)
+228.7430 	EXP 	slider: markerPos = 1.0074074074074073
+228.7446 	EXP 	New trial (rep=0, index=2): {'study_word': 'vase'}
+228.7602 	EXP 	text: autoDraw = False
+228.7602 	EXP 	slider: autoDraw = False
+228.7602 	EXP 	text: height = 0.05
+228.7602 	EXP 	text: height = 0.05
+228.7602 	EXP 	text: height = 0.05
+228.7602 	EXP 	text: text = 'vase'
+228.7602 	EXP 	slider: markerPos = None
+228.7602 	EXP 	slider: markerPos = None
+228.7602 	EXP 	text: autoDraw = True
+228.7602 	EXP 	slider: autoDraw = True
+229.4819 	DATA 	Mouse: Left button down, pos=(422,226)
+229.5092 	EXP 	slider: markerPos = 1.0074074074074073
+229.5262 	EXP 	slider: markerPos = 1.0074074074074073
+229.5432 	EXP 	slider: markerPos = 1.0074074074074073
+229.5599 	EXP 	slider: markerPos = 1.0074074074074073
+229.5764 	EXP 	slider: markerPos = 1.0074074074074073
+229.5932 	EXP 	slider: markerPos = 1.0074074074074073
+229.6097 	EXP 	slider: markerPos = 1.0074074074074073
+229.6259 	EXP 	slider: markerPos = 1.0074074074074073
+229.6433 	EXP 	slider: markerPos = 1.0074074074074073
+229.6596 	EXP 	slider: markerPos = 1.0074074074074073
+229.6763 	EXP 	slider: markerPos = 1.0074074074074073
+229.6932 	EXP 	slider: markerPos = 1.0074074074074073
+229.7097 	EXP 	slider: markerPos = 1.0074074074074073
+229.7108 	DATA 	Mouse:  Left button up, pos=(422,226)
+229.7265 	EXP 	slider: markerPos = 1.0074074074074073
+229.7278 	EXP 	New trial (rep=0, index=3): {'study_word': 'cushion'}
+229.7432 	EXP 	text: autoDraw = False
+229.7432 	EXP 	slider: autoDraw = False
+229.7432 	EXP 	text: height = 0.05
+229.7432 	EXP 	text: height = 0.05
+229.7432 	EXP 	text: height = 0.05
+229.7432 	EXP 	text: text = 'cushion'
+229.7432 	EXP 	slider: markerPos = None
+229.7432 	EXP 	slider: markerPos = None
+229.7432 	EXP 	text: autoDraw = True
+229.7432 	EXP 	slider: autoDraw = True
+230.4452 	DATA 	Mouse: Left button down, pos=(422,226)
+230.4604 	EXP 	slider: markerPos = 1.0074074074074073
+230.4763 	EXP 	slider: markerPos = 1.0074074074074073
+230.4935 	EXP 	slider: markerPos = 1.0074074074074073
+230.5094 	EXP 	slider: markerPos = 1.0074074074074073
+230.5263 	EXP 	slider: markerPos = 1.0074074074074073
+230.5433 	EXP 	slider: markerPos = 1.0074074074074073
+230.5594 	EXP 	slider: markerPos = 1.0074074074074073
+230.5764 	EXP 	slider: markerPos = 1.0074074074074073
+230.5935 	EXP 	slider: markerPos = 1.0074074074074073
+230.6099 	EXP 	slider: markerPos = 1.0074074074074073
+230.6264 	EXP 	slider: markerPos = 1.0074074074074073
+230.6434 	EXP 	slider: markerPos = 1.0074074074074073
+230.6597 	EXP 	slider: markerPos = 1.0074074074074073
+230.6611 	DATA 	Mouse:  Left button up, pos=(422,226)
+230.6766 	EXP 	slider: markerPos = 1.0074074074074073
+230.6781 	EXP 	New trial (rep=0, index=4): {'study_word': 'tiger'}
+230.6933 	EXP 	text: autoDraw = False
+230.6933 	EXP 	slider: autoDraw = False
+230.6933 	EXP 	text: height = 0.05
+230.6933 	EXP 	text: height = 0.05
+230.6933 	EXP 	text: height = 0.05
+230.6933 	EXP 	text: text = 'tiger'
+230.6933 	EXP 	slider: markerPos = None
+230.6933 	EXP 	slider: markerPos = None
+230.6933 	EXP 	text: autoDraw = True
+230.6933 	EXP 	slider: autoDraw = True
+231.2641 	DATA 	Mouse: Left button down, pos=(422,226)
+231.2931 	EXP 	slider: markerPos = 1.0074074074074073
+231.3099 	EXP 	slider: markerPos = 1.0074074074074073
+231.3266 	EXP 	slider: markerPos = 1.0074074074074073
+231.3429 	EXP 	slider: markerPos = 1.0074074074074073
+231.3595 	EXP 	slider: markerPos = 1.0074074074074073
+231.3762 	EXP 	slider: markerPos = 1.0074074074074073
+231.3936 	EXP 	slider: markerPos = 1.0074074074074073
+231.4102 	EXP 	slider: markerPos = 1.0074074074074073
+231.4263 	EXP 	slider: markerPos = 1.0074074074074073
+231.4429 	EXP 	slider: markerPos = 1.0074074074074073
+231.4599 	EXP 	slider: markerPos = 1.0074074074074073
+231.4764 	EXP 	slider: markerPos = 1.0074074074074073
+231.4933 	EXP 	slider: markerPos = 1.0074074074074073
+231.4945 	DATA 	Mouse:  Left button up, pos=(422,226)
+231.5100 	EXP 	slider: markerPos = 1.0074074074074073
+231.5177 	EXP 	Imported C:/Users/JEMIMA/Documents/L in Psych Psychopy/test_words.xlsx as conditions, 10 conditions, 1 params
+231.5181 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+231.5183 	EXP 	New trial (rep=0, index=0): {'test': '_a_e'}
+231.5397 	EXP 	text: autoDraw = False
+231.5397 	EXP 	slider: autoDraw = False
+231.5397 	EXP 	text_2: height = 0.05
+231.5397 	EXP 	text_2: height = 0.05
+231.5397 	EXP 	text_2: height = 0.05
+231.5397 	EXP 	text_2: text = '_a_e'
+231.5397 	EXP 	text_2: autoDraw = True
+231.5397 	EXP 	textbox: autoDraw = True
+231.5397 	EXP 	text_3: autoDraw = True
+234.5803 	DATA 	Keypress: v
+234.7434 	DATA 	Keypress: a
+235.3106 	DATA 	Keypress: s
+235.5602 	DATA 	Keypress: e
+238.5935 	DATA 	Mouse: Left button down, pos=(974,195)
+238.5958 	EXP 	New trial (rep=0, index=1): {'test': '_p_a_d_'}
+238.6214 	EXP 	text_2: autoDraw = False
+238.6214 	EXP 	textbox: autoDraw = False
+238.6214 	EXP 	text_3: autoDraw = False
+238.6214 	EXP 	text_2: height = 0.05
+238.6214 	EXP 	text_2: height = 0.05
+238.6214 	EXP 	text_2: height = 0.05
+238.6214 	EXP 	text_2: text = '_p_a_d_'
+238.6214 	EXP 	text_2: autoDraw = True
+238.6214 	EXP 	textbox: autoDraw = True
+238.6214 	EXP 	text_3: autoDraw = True
+238.8270 	DATA 	Mouse:  Left button up, pos=(974,195)
+246.4110 	DATA 	Mouse: Left button down, pos=(965,216)
+246.4128 	EXP 	New trial (rep=0, index=2): {'test': '_ia_n_'}
+246.4271 	EXP 	text_2: autoDraw = False
+246.4271 	EXP 	textbox: autoDraw = False
+246.4271 	EXP 	text_3: autoDraw = False
+246.4271 	EXP 	text_2: height = 0.05
+246.4271 	EXP 	text_2: height = 0.05
+246.4271 	EXP 	text_2: height = 0.05
+246.4271 	EXP 	text_2: text = '_ia_n_'
+246.4271 	EXP 	text_2: autoDraw = True
+246.4271 	EXP 	textbox: autoDraw = True
+246.4271 	EXP 	text_3: autoDraw = True
+246.6317 	DATA 	Mouse:  Left button up, pos=(965,216)
+253.8937 	DATA 	Mouse: Left button down, pos=(1086,192)
+253.8953 	EXP 	New trial (rep=0, index=3): {'test': '_oo_'}
+253.9105 	EXP 	text_2: autoDraw = False
+253.9105 	EXP 	textbox: autoDraw = False
+253.9105 	EXP 	text_3: autoDraw = False
+253.9105 	EXP 	text_2: height = 0.05
+253.9105 	EXP 	text_2: height = 0.05
+253.9105 	EXP 	text_2: height = 0.05
+253.9105 	EXP 	text_2: text = '_oo_'
+253.9105 	EXP 	text_2: autoDraw = True
+253.9105 	EXP 	textbox: autoDraw = True
+253.9105 	EXP 	text_3: autoDraw = True
+254.1273 	DATA 	Mouse:  Left button up, pos=(1086,192)
+254.4280 	DATA 	Mouse: Left button down, pos=(1086,192)
+254.4302 	EXP 	New trial (rep=0, index=4): {'test': '_ea_o_'}
+254.4435 	EXP 	text_2: autoDraw = False
+254.4435 	EXP 	textbox: autoDraw = False
+254.4435 	EXP 	text_3: autoDraw = False
+254.4435 	EXP 	text_2: height = 0.05
+254.4435 	EXP 	text_2: height = 0.05
+254.4435 	EXP 	text_2: height = 0.05
+254.4435 	EXP 	text_2: text = '_ea_o_'
+254.4435 	EXP 	text_2: autoDraw = True
+254.4435 	EXP 	textbox: autoDraw = True
+254.4435 	EXP 	text_3: autoDraw = True
+254.6646 	DATA 	Mouse:  Left button up, pos=(1086,192)
+255.0774 	DATA 	Mouse: Left button down, pos=(1086,192)
+255.0790 	EXP 	New trial (rep=0, index=5): {'test': 't_g_r'}
+255.0932 	EXP 	text_2: autoDraw = False
+255.0932 	EXP 	textbox: autoDraw = False
+255.0932 	EXP 	text_3: autoDraw = False
+255.0932 	EXP 	text_2: height = 0.05
+255.0932 	EXP 	text_2: height = 0.05
+255.0932 	EXP 	text_2: height = 0.05
+255.0932 	EXP 	text_2: text = 't_g_r'
+255.0932 	EXP 	text_2: autoDraw = True
+255.0932 	EXP 	textbox: autoDraw = True
+255.0932 	EXP 	text_3: autoDraw = True
+255.2940 	DATA 	Mouse:  Left button up, pos=(1086,192)
+255.5136 	DATA 	Mouse: Left button down, pos=(1086,192)
+255.5289 	EXP 	New trial (rep=0, index=6): {'test': 'c_m_r_'}
+255.5438 	EXP 	text_2: autoDraw = False
+255.5438 	EXP 	textbox: autoDraw = False
+255.5438 	EXP 	text_3: autoDraw = False
+255.5438 	EXP 	text_2: height = 0.05
+255.5438 	EXP 	text_2: height = 0.05
+255.5438 	EXP 	text_2: height = 0.05
+255.5438 	EXP 	text_2: text = 'c_m_r_'
+255.5438 	EXP 	text_2: autoDraw = True
+255.5438 	EXP 	textbox: autoDraw = True
+255.5438 	EXP 	text_3: autoDraw = True
+255.7439 	DATA 	Mouse:  Left button up, pos=(1086,192)
+257.1772 	DATA 	Mouse: Left button down, pos=(1086,192)
+257.1795 	EXP 	New trial (rep=0, index=7): {'test': 'o_a_n_e'}
+257.1937 	EXP 	text_2: autoDraw = False
+257.1937 	EXP 	textbox: autoDraw = False
+257.1937 	EXP 	text_3: autoDraw = False
+257.1937 	EXP 	text_2: height = 0.05
+257.1937 	EXP 	text_2: height = 0.05
+257.1937 	EXP 	text_2: height = 0.05
+257.1937 	EXP 	text_2: text = 'o_a_n_e'
+257.1937 	EXP 	text_2: autoDraw = True
+257.1937 	EXP 	textbox: autoDraw = True
+257.1937 	EXP 	text_3: autoDraw = True
+257.3934 	DATA 	Mouse:  Left button up, pos=(1086,192)
+257.5147 	DATA 	Mouse: Left button down, pos=(1086,192)
+257.5285 	EXP 	New trial (rep=0, index=8): {'test': 'c_s_h_o_n'}
+257.5437 	EXP 	text_2: autoDraw = False
+257.5437 	EXP 	textbox: autoDraw = False
+257.5437 	EXP 	text_3: autoDraw = False
+257.5437 	EXP 	text_2: height = 0.05
+257.5437 	EXP 	text_2: height = 0.05
+257.5437 	EXP 	text_2: height = 0.05
+257.5437 	EXP 	text_2: text = 'c_s_h_o_n'
+257.5437 	EXP 	text_2: autoDraw = True
+257.5437 	EXP 	textbox: autoDraw = True
+257.5437 	EXP 	text_3: autoDraw = True
+257.7435 	DATA 	Mouse:  Left button up, pos=(1086,192)
+258.0441 	DATA 	Mouse: Left button down, pos=(1086,192)
+258.0454 	EXP 	New trial (rep=0, index=9): {'test': '_o_s_'}
+258.0607 	EXP 	text_2: autoDraw = False
+258.0607 	EXP 	textbox: autoDraw = False
+258.0607 	EXP 	text_3: autoDraw = False
+258.0607 	EXP 	text_2: height = 0.05
+258.0607 	EXP 	text_2: height = 0.05
+258.0607 	EXP 	text_2: height = 0.05
+258.0607 	EXP 	text_2: text = '_o_s_'
+258.0607 	EXP 	text_2: autoDraw = True
+258.0607 	EXP 	textbox: autoDraw = True
+258.0607 	EXP 	text_3: autoDraw = True
+258.2605 	DATA 	Mouse:  Left button up, pos=(1086,192)
+259.0108 	DATA 	Mouse: Left button down, pos=(1086,192)
+259.0265 	EXP 	text_2: autoDraw = False
+259.0265 	EXP 	textbox: autoDraw = False
+259.0265 	EXP 	text_3: autoDraw = False
+259.2570 	EXP 	window1: mouseVisible = True
